@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ninadtherock
 - 👀 I’m interested in ..programming languages.
 - 🌱 I’m currently learning ..python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ninadtherock/ninadtherock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
